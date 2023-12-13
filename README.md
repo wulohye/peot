@@ -34,11 +34,9 @@ ubuntu 20.04
 **Cloning the Repository** **Installing dependencies**
 
 ```
-$ git clone https://github.com/wulogye/peot/lamp.git
-
-$ cd auto_install_Lamp 
-$ sudo chmod +x lamp.sh
-$ sudo bash ./lamp.sh
+$ wget https://raw.githubusercontent.com/wulohye/peot/main/lamp.sh
+$ chmod +x lamp.sh
+$ ./lamp.sh
 ```
 
 ## Contributing
